@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Chris Columbus 👋
+🧑‍⚕️ Nurse | 🤱 Lactation Consultant | 🏭 Plant Operator | 🤖 AI Explorer
 
-<!--
-**columbus2020/columbus2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I'm learning:**
+- Git & GitHub
+- AI prompts for healthcare
+- Building tools for nurses
 
-Here are some ideas to get you started:
+**My Projects:**
+- 🍼 [ai-prompts-for-nurses](https://github.com/columbus2020/ai-prompts-for-nurses) - My AI prompts collection
+- 🌱 First steps in coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mission:** Teach nurses how to use AI to save time on care plans & patient education.
+
+> "Caring for people with science and compassion"
